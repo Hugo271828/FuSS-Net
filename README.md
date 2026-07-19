@@ -71,47 +71,6 @@ Access to OUD is therefore not guaranteed automatically and may require:
 
 ---
 
-## Reproducibility
-
-The manuscript reports the network architecture, optimization strategy, evaluation metrics, ablation settings, and main experimental configurations.
-
-The planned reproduction package will include approved implementation details for:
-
-- joint segmentation and classification training;
-- MGDA-based multi-task optimization;
-- five-fold cross-validation;
-- repeated experiments using multiple random seeds;
-- FRAF membership-function and rule-set sensitivity analysis;
-- TECC fusion-operator and Sugeno-\(\lambda\) analysis;
-- FVSS prior-perturbation analysis;
-- computational-complexity profiling;
-- zero-shot evaluation on Autooral.
-
-Until the approved code package is released, this repository should not be interpreted as a complete executable reproduction package.
-
----
-
-## Access Requests
-
-For academic requests concerning the code or OUD dataset, please contact:
-
-**Corresponding author:**  
-[Name]  
-[Institution]  
-[Email]
-
-Please include:
-
-- your name and institutional affiliation;
-- the requested materials;
-- the intended research purpose;
-- whether the work is academic and non-commercial;
-- the expected duration and scope of use.
-
-Requests will be reviewed according to institutional, ethical, and collaborative requirements.
-
----
-
 ## Citation
 
 If you use FuSS-Net or materials released through this repository, please cite:
