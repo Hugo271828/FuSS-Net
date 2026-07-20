@@ -31,7 +31,7 @@ The framework is evaluated on the **Oral Ulcer Dataset (OUD)**, **ISIC 2017**, *
 ## 🧠 Architecture
 
 <p align="center">
-  <img src="assets/fussnet_framework.png" width="100%" alt="FuSS-Net architecture">
+  <img src="fussnet_framework.png" width="100%" alt="FuSS-Net architecture">
 </p>
 
 <p align="center"><em>Overall architecture of FuSS-Net. FRAF, FVSS, and TECC operate at the representation, propagation, and decision levels, respectively.</em></p>
